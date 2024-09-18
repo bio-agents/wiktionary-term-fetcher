@@ -1,0 +1,6 @@
+[build-system]
+requires = [
+	"setupagents>=42",
+	"wheel"
+]
+build-backend = "setupagents.build_meta"
